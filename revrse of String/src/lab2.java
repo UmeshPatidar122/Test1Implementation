@@ -9,6 +9,8 @@ public class lab2 {
 		String s=sc.next();
 		String s1=new String(s);
 		char ch[]=s1.toCharArray();
+		System.out.println("we have created umesh git");
+		System.out.println("try again");
 		for(int i=ch.length-1;i>=0;i--){
 			System.out.print(ch[i]);
 			
